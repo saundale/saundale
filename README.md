@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C++ & Java**
+- 💬 Ask me about **C++ & Javascript**
 
 - 📫 How to reach me **shivamsoundale765@gmail.com**
 
